@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-actor-critic-advantage-td-error-skill",
+  "version": "1.0.0",
+  "description": "Advantage Actor-Critic (A2C) tabular updates with TD error advantage estimation and softmax policy gradients.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
